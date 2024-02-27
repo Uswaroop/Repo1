@@ -1,0 +1,25 @@
+     epic level requirements 
+       -> user story 1 -> acceptance criteria 1 & 2
+       -> user story 2 -> acceptance criteria 1 & 2
+       You can write AC in different formats. Although we have to create your own format, 
+       there are two common formats used for creating acceptance criteria.
+
+   * What is Acceptance Criteria?
+     The acceptance criteria is a set of accepted conditions or
+     business rules for which the functionality or feature should satisfy and meet, 
+     in order to be accepted by the Product Owner
+
+   * how to write acceptance criteria?
+     given :- it refers to the beginning stage 
+     when  :- you want the user to make a particular action
+     then  :- to describe outcome of this 
+      
+----------------------------------------------------------------------------------------
+
+     Example for Acceptance criteria :-  
+          As a bank account holder, i want to receive a notification when i have less than 
+          1000 rupees in my account after making a deposit so that i dont overspend.
+              scenario : notification for overspending 
+              given : user has opened a bank account 
+              when : user has less than 1000 rupees after a deposit 
+              then: system notifies the user of thier balance 
