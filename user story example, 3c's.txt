@@ -1,0 +1,17 @@
+ 3c's of user stories 
+   - card (provides written description)
+   - conversation ( representation between users, teams etc)
+   - confirmation ( it represent conditions that need to be satisfied to ensure that the story meets all requirements.
+ ----------------------------------------------------------------------  
+
+ lifecycle of a user story 
+   pending -> to-do -> discussion -> developing -> confirming -> finished
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Example of user story 
+
+    As a Team leader, i want to track my teammates progress to ensure the organization goals 
+
+    who - who is requesting (team leader)
+    what - what looking for (teammates progress like what is the completion status)
+    why - to ensure the goals 
