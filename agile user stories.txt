@@ -1,0 +1,99 @@
+Agile User Stories 
+
+1. what are user stories 
+2. advantages of userstories
+3. how to write user stories 
+4. why create 
+5. 3c's of user stories 
+6. lifecycle of user stories 
+
+1. user stories are an agile software development/ project management tool 
+   that provides users with simple, natural language explanation of one or more 
+   futures written from the end users
+   user stories also form the building block of agile frameworks like epics and initiatives 
+
+2. advantages - delivers high quality content 
+              - easy collaboration 
+              - helps understand user better 
+              - improves transparency 
+              - focus of vocal communication 
+              - supports iterative development 
+              - reduced risks 
+
+3. how to write   
+   As a [role], I [want to], [so that]
+     [so that] - it refers to a results/benefit thats non-functional and external to the system 
+     [want to] - it represents the behaviour of the system 
+     [role]    - it refers to an individual that would be interacting with the system 
+
+4. why create 
+   For development teams new to agile, user stories sometimes seem like an added step. 
+   and some key benefits there 
+   - keep focus on the user -  keeps the team focused on solving problems for real users.
+   - enable collaboration   - the team can work together to decide how best to serve the user and meet that goal.
+   - 
+
+4. 3c's of user stories 
+   - card (provides written description)
+   - conversation ( representation between users, teams etc)
+   - confirmation ( it represent conditions that need to be satisfied to ensure that the story meets all requirements.
+
+5. lifecycle of a user story 
+   pending -> to-do -> discussion -> developing -> confirming -> finished
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Example of user story 
+
+    As a Team leader, i want to track my teammates progress to ensure the organization goals 
+
+    who - who is requesting (team leader)
+    what - what looking for (teammates progress like what is the completion status)
+    why - to ensure the goals 
+
+ ------------------------------------------------------------------------------------------------------------------------------------------ 
+     Acceptance criteria:-           
+
+     epic level requirements 
+       -> user story 1 -> acceptance criteria 1 & 2
+       -> user story 2 -> acceptance criteria 1 & 2
+       You can write AC in different formats. Although we have to create your own format, 
+       there are two common formats used for creating acceptance criteria.
+
+   * What is Acceptance Criteria?
+     The acceptance criteria is a set of accepted conditions or
+     business rules for which the functionality or feature should satisfy and meet, 
+     in order to be accepted by the Product Owner
+
+   * how to write acceptance criteria?
+     given :- it refers to the beginning stage 
+     when  :- you want the user to make a particular action
+     then  :- to describe outcome of this 
+      
+----------------------------------------------------------------------------------------
+
+     Example for Acceptance criteria :-  
+          As a bank account holder, i want to receive a notification when i have less than 
+          1000 rupees in my account after making a deposit so that i dont overspend.
+              scenario : notification for overspending 
+              given : user has opened a bank account 
+              when : user has less than 1000 rupees after a deposit 
+              then: system notifies the user of thier balance 
+
+-------------------------------------------------------------------------------------------
+
+  INVESTing in user stories (it helps to create meaningful user stories 
+           I - indepandent - it should be independent one another so that each of them can be developed 
+           N - negotiable  - it should be discussable and should be open for negotiation
+           V - valuable - it must ensure there value being added to the customers 
+           E - Estimable - it must be estimable and can be divided into tasks 
+           S - small - it shouldnt be too big and should be completed about 3 to 4 days 
+           T - testable - they should have an acceptance criteria that can be tested to check if they fulfill the customers needs.
+
+--------------------------------------------------------------------------------------------
+
+
+
+   
+
+
+

@@ -1,0 +1,10 @@
+
+
+
+ INVESTing in user stories (it helps to create meaningful user stories 
+           I - indepandent - it should be independent one another so that each of them can be developed 
+           N - negotiable  - it should be discussable and should be open for negotiation
+           V - valuable - it must ensure there value being added to the customers 
+           E - Estimable - it must be estimable and can be divided into tasks 
+           S - small - it shouldnt be too big and should be completed about 3 to 4 days 
+           T - testable - they should have an acceptance criteria that can be tested to check if they fulfill the customers needs.
